@@ -5,3 +5,5 @@ between two esp32 development boards over WIFI from an opensource VR glove from 
 to a servo controlled hand. 
 
 All links to the resources used are in the technical document in the main folder. Thank you for your time.
+
+Link to the video: https://youtu.be/Z9kdG3HKgXU 
